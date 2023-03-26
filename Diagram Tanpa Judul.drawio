@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-26T22:30:13.372Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="P9QJuHYQtqgu5q-84hB2" version="21.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-26T22:32:44.609Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="-tEzoGj05CpCrmydbPOR" version="21.1.1" type="github">
   <diagram name="Halaman-1" id="XmxOvHVFqEo9q_UAqhoj">
     <mxGraphModel dx="624" dy="644" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -213,13 +213,13 @@
           <mxGeometry x="1310" y="750" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mDD73wP0_zgOxC7ukqkO-35" value="Riwayat BPJS" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="930" y="780" width="100" height="40" as="geometry" />
+          <mxGeometry x="890" y="820" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mDD73wP0_zgOxC7ukqkO-36" value="Antrean" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="1060" y="310" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mDD73wP0_zgOxC7ukqkO-37" value="Pembayaran BPJS" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="930" y="1030" width="100" height="40" as="geometry" />
+          <mxGeometry x="890" y="1020" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mDD73wP0_zgOxC7ukqkO-38" value="Rumah Sakit" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="740" y="90" width="100" height="40" as="geometry" />
@@ -340,6 +340,18 @@
               <mxPoint x="860" y="460" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="mDD73wP0_zgOxC7ukqkO-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="mDD73wP0_zgOxC7ukqkO-67" target="mDD73wP0_zgOxC7ukqkO-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mDD73wP0_zgOxC7ukqkO-67" value="riwayat bpjs" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="890" y="720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mDD73wP0_zgOxC7ukqkO-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mDD73wP0_zgOxC7ukqkO-70" target="mDD73wP0_zgOxC7ukqkO-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mDD73wP0_zgOxC7ukqkO-70" value="pembayaran bpjs" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="880" y="930" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
