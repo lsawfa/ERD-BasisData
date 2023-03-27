@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-27T00:33:50.555Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="pdGhQ93sgoatzk3mlMso" version="21.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-27T00:34:19.963Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="z002SVD-3YktB3w6mq8G" version="21.1.1" type="github">
   <diagram name="Halaman-1" id="XmxOvHVFqEo9q_UAqhoj">
     <mxGraphModel dx="1120" dy="452" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -231,7 +231,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mDD73wP0_zgOxC7ukqkO-34" value="Riwayat Kesehatan" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1306" y="800" width="100" height="40" as="geometry" />
+          <mxGeometry x="1306" y="878" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mDD73wP0_zgOxC7ukqkO-35" value="Riwayat BPJS" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="906" y="810" width="100" height="40" as="geometry" />
@@ -470,7 +470,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mDD73wP0_zgOxC7ukqkO-76" value="riwayat mandiri" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1296" y="700" width="120" height="60" as="geometry" />
+          <mxGeometry x="1296" y="778" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mDD73wP0_zgOxC7ukqkO-79" value="" style="edgeStyle=orthogonalEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="mDD73wP0_zgOxC7ukqkO-32" target="mDD73wP0_zgOxC7ukqkO-76">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
@@ -478,7 +478,7 @@
             <mxPoint x="1296" y="730" as="targetPoint" />
             <Array as="points">
               <mxPoint x="1256" y="570" />
-              <mxPoint x="1256" y="745" />
+              <mxPoint x="1256" y="823" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -550,19 +550,19 @@
           <mxGeometry x="1440" y="40" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mDD73wP0_zgOxC7ukqkO-105" value="No Riwayat" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="1">
-          <mxGeometry x="1039" y="870" width="100" height="40" as="geometry" />
+          <mxGeometry x="1039" y="948" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mDD73wP0_zgOxC7ukqkO-106" value="Riwayat Penyakit" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1164" y="870" width="100" height="40" as="geometry" />
+          <mxGeometry x="1164" y="948" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mDD73wP0_zgOxC7ukqkO-107" value="Riwayat Rawat" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1298" y="870" width="100" height="40" as="geometry" />
+          <mxGeometry x="1298" y="948" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mDD73wP0_zgOxC7ukqkO-108" value="Riwayat Pemeriksaan" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1418" y="870" width="100" height="40" as="geometry" />
+          <mxGeometry x="1418" y="948" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mDD73wP0_zgOxC7ukqkO-110" value="Rekam Obat" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1550" y="870" width="100" height="40" as="geometry" />
+          <mxGeometry x="1550" y="948" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mDD73wP0_zgOxC7ukqkO-116" value="No Rekam Medik" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="1">
           <mxGeometry x="1526" y="620" width="100" height="40" as="geometry" />
