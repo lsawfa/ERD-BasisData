@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-27T00:37:33.862Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="x5R_wwF4mCrljiUMgEUK" version="21.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-27T00:38:50.808Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="Bvs28QlWVkMQLQgxyAgX" version="21.1.1" type="github">
   <diagram name="Halaman-1" id="XmxOvHVFqEo9q_UAqhoj">
     <mxGraphModel dx="1120" dy="452" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -195,6 +195,26 @@
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="446" y="390" as="sourcePoint" />
             <mxPoint x="546" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mDD73wP0_zgOxC7ukqkO-146" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="mDD73wP0_zgOxC7ukqkO-30" target="mDD73wP0_zgOxC7ukqkO-142">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mDD73wP0_zgOxC7ukqkO-147" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mDD73wP0_zgOxC7ukqkO-30" target="mDD73wP0_zgOxC7ukqkO-143">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="906" y="600" />
+              <mxPoint x="906" y="600" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mDD73wP0_zgOxC7ukqkO-148" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="mDD73wP0_zgOxC7ukqkO-30" target="mDD73wP0_zgOxC7ukqkO-144">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1030" y="545" />
+              <mxPoint x="1030" y="613" />
+              <mxPoint x="1036" y="613" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="mDD73wP0_zgOxC7ukqkO-30" value="Layanan BPJS" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
@@ -625,6 +645,15 @@
         </mxCell>
         <mxCell id="mDD73wP0_zgOxC7ukqkO-138" value="Riwayat Kunjungan" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="916" y="870" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mDD73wP0_zgOxC7ukqkO-142" value="No_BPJS" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="1">
+          <mxGeometry x="910" y="600" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mDD73wP0_zgOxC7ukqkO-143" value="Status Bpjs" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="856" y="660" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mDD73wP0_zgOxC7ukqkO-144" value="Batsan layanan" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="986" y="660" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
