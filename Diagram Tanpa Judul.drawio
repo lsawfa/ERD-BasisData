@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-27T00:38:50.808Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="Bvs28QlWVkMQLQgxyAgX" version="21.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-27T00:39:34.924Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="jgxYkKC0AYV56Z8VLMn1" version="21.1.1" type="github">
   <diagram name="Halaman-1" id="XmxOvHVFqEo9q_UAqhoj">
     <mxGraphModel dx="1120" dy="452" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -282,8 +282,8 @@
         <mxCell id="mDD73wP0_zgOxC7ukqkO-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="mDD73wP0_zgOxC7ukqkO-36" target="mDD73wP0_zgOxC7ukqkO-119">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1116" y="290" />
-              <mxPoint x="1411" y="290" />
+              <mxPoint x="1116" y="320" />
+              <mxPoint x="1411" y="320" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -296,7 +296,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="mDD73wP0_zgOxC7ukqkO-36" value="Antrean" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1066" y="310" width="100" height="40" as="geometry" />
+          <mxGeometry x="1066" y="340" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mDD73wP0_zgOxC7ukqkO-135" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mDD73wP0_zgOxC7ukqkO-37" target="mDD73wP0_zgOxC7ukqkO-133">
           <mxGeometry relative="1" as="geometry" />
@@ -364,11 +364,13 @@
         <mxCell id="mDD73wP0_zgOxC7ukqkO-40" value="Obat" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="1486" y="190" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="mDD73wP0_zgOxC7ukqkO-42" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mDD73wP0_zgOxC7ukqkO-41" target="mDD73wP0_zgOxC7ukqkO-36">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="mDD73wP0_zgOxC7ukqkO-42" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="mDD73wP0_zgOxC7ukqkO-36">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1006" y="360" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="mDD73wP0_zgOxC7ukqkO-41" value="antrean pasien" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="886" y="300" width="120" height="60" as="geometry" />
+          <mxGeometry x="886" y="330" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mDD73wP0_zgOxC7ukqkO-54" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="mDD73wP0_zgOxC7ukqkO-43" target="mDD73wP0_zgOxC7ukqkO-30">
           <mxGeometry relative="1" as="geometry" />
@@ -614,13 +616,13 @@
           <mxGeometry x="1526" y="620" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mDD73wP0_zgOxC7ukqkO-118" value="No Antrean" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="1">
-          <mxGeometry x="1210" y="310" width="100" height="40" as="geometry" />
+          <mxGeometry x="1210" y="340" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mDD73wP0_zgOxC7ukqkO-119" value="Jam Antran" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1361" y="310" width="100" height="40" as="geometry" />
+          <mxGeometry x="1361" y="340" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mDD73wP0_zgOxC7ukqkO-120" value="Poli" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1486" y="310" width="100" height="40" as="geometry" />
+          <mxGeometry x="1486" y="340" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mDD73wP0_zgOxC7ukqkO-125" value="No Telepon" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="1">
           <mxGeometry x="1110" y="600" width="100" height="40" as="geometry" />
