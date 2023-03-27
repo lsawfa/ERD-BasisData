@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-27T00:39:34.924Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="jgxYkKC0AYV56Z8VLMn1" version="21.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-27T00:41:04.488Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="PqmLCNnytvffM0QqU3MD" version="21.1.1" type="github">
   <diagram name="Halaman-1" id="XmxOvHVFqEo9q_UAqhoj">
     <mxGraphModel dx="1120" dy="452" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -358,6 +358,23 @@
         <mxCell id="mDD73wP0_zgOxC7ukqkO-38" value="Rumah Sakit" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="886" y="120" width="100" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="mDD73wP0_zgOxC7ukqkO-153" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="mDD73wP0_zgOxC7ukqkO-39" target="mDD73wP0_zgOxC7ukqkO-149">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mDD73wP0_zgOxC7ukqkO-154" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="mDD73wP0_zgOxC7ukqkO-39" target="mDD73wP0_zgOxC7ukqkO-151">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mDD73wP0_zgOxC7ukqkO-155" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mDD73wP0_zgOxC7ukqkO-39" target="mDD73wP0_zgOxC7ukqkO-150">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="980" y="230" />
+              <mxPoint x="980" y="270" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mDD73wP0_zgOxC7ukqkO-156" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="mDD73wP0_zgOxC7ukqkO-39" target="mDD73wP0_zgOxC7ukqkO-151">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="mDD73wP0_zgOxC7ukqkO-39" value="Pembayaran" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="1056" y="190" width="100" height="40" as="geometry" />
         </mxCell>
@@ -616,10 +633,10 @@
           <mxGeometry x="1526" y="620" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mDD73wP0_zgOxC7ukqkO-118" value="No Antrean" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="1">
-          <mxGeometry x="1210" y="340" width="100" height="40" as="geometry" />
+          <mxGeometry x="1361" y="340" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mDD73wP0_zgOxC7ukqkO-119" value="Jam Antran" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1361" y="340" width="100" height="40" as="geometry" />
+          <mxGeometry x="1210" y="340" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mDD73wP0_zgOxC7ukqkO-120" value="Poli" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="1486" y="340" width="100" height="40" as="geometry" />
@@ -656,6 +673,18 @@
         </mxCell>
         <mxCell id="mDD73wP0_zgOxC7ukqkO-144" value="Batsan layanan" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="986" y="660" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mDD73wP0_zgOxC7ukqkO-149" value="No Transaksi" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="1">
+          <mxGeometry x="991" y="250" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mDD73wP0_zgOxC7ukqkO-150" value="Metode Pembayrana" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="840" y="250" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mDD73wP0_zgOxC7ukqkO-151" value="Tgl pembayaran" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1116" y="250" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mDD73wP0_zgOxC7ukqkO-152" value="status pembayaran" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1250" y="250" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
