@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-27T00:35:36.379Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="nF_L7osVuGl_c6Ud-956" version="21.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-27T00:36:17.872Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="RK-m-ALdY3n4gyND9MhR" version="21.1.1" type="github">
   <diagram name="Halaman-1" id="XmxOvHVFqEo9q_UAqhoj">
     <mxGraphModel dx="1120" dy="452" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -271,6 +271,12 @@
         </mxCell>
         <mxCell id="mDD73wP0_zgOxC7ukqkO-36" value="Antrean" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="1066" y="310" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mDD73wP0_zgOxC7ukqkO-135" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mDD73wP0_zgOxC7ukqkO-37" target="mDD73wP0_zgOxC7ukqkO-133">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mDD73wP0_zgOxC7ukqkO-136" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mDD73wP0_zgOxC7ukqkO-37" target="mDD73wP0_zgOxC7ukqkO-134">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mDD73wP0_zgOxC7ukqkO-37" value="Pembayaran BPJS" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="906" y="1020" width="100" height="40" as="geometry" />
@@ -601,6 +607,12 @@
         </mxCell>
         <mxCell id="mDD73wP0_zgOxC7ukqkO-129" value="Jenis layanan" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="1336" y="725" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mDD73wP0_zgOxC7ukqkO-133" value="Kode Pembayran" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="1">
+          <mxGeometry x="1047.5" y="1020" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mDD73wP0_zgOxC7ukqkO-134" value="Riwayat Pmbyaran" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="996" y="1090" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
